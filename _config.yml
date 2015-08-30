@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Emma Chisit
+locale:           en_AU
 url:
 
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Emma Chisit
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "A data-driven model for Australian elections."
   email:
   disqus-shortname:
   twitter: #username
