@@ -3,11 +3,11 @@
 - title: About
   url: /about/
 
-- title: Current forecast
+- title: Blog
   url: /posts/
 
-- title: Blog
-  url: /theme-setup/
+- title: Current forecast
+  url: /current-forecast/
 
 - title: Clinton Boys
   url: http://clintonboys.com
