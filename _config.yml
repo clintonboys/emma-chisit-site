@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: 
-  avatar: #blank.png
+  avatar: blank.png
   bio: "A data-driven model for Australian elections."
   email:
   disqus-shortname:
