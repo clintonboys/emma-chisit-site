@@ -159,7 +159,7 @@ image:
  
 *Hinkler*: COA (58.91) 
  
-*Kennedy*: COA (57.58) 
+*Kennedy*: KAP (58.51) 
  
 *Leichhardt*: COA (54.9) 
  
@@ -219,7 +219,7 @@ image:
  
 *Braddon*: COA (52.66) 
  
-*Denison*: ALP (52.06) 
+*Denison*: IND (64.51) 
  
 *Franklin*: ALP (54.42) 
  
@@ -235,7 +235,7 @@ image:
  
 *Hotham*: ALP (58.59) 
  
-*Indi*: COA (76.5) 
+*Indi*: COA (76.31) 
  
 *Isaacs*: ALP (53.2) 
  
