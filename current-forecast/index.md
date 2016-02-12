@@ -166,4 +166,3 @@ image:
 ###Stirling: COA (60.55) 
 ###Swan: COA (57.66) 
 ###Brand: ALP (53.65) 
-I
