@@ -17,318 +17,317 @@ image:
 
 ## ACT
  
- *Canberra*: ALP (55.56) 
+*Canberra*: ALP (55.56) 
  
- *Fraser*: ALP (61.5) 
+*Fraser*: ALP (61.5) 
  
- ## NSW
+## NSW
  
- *Barton*: ALP (51.51) 
+*Barton*: ALP (51.51) 
  
- *Bennelong*: COA (59.1) 
+*Bennelong*: COA (59.1) 
  
- *Berowra*: COA (71.69) 
+*Berowra*: COA (71.69) 
  
- *Blaxland*: ALP (64.54) 
+*Blaxland*: ALP (64.54) 
  
- *Bradfield*: COA (74.38) 
+*Bradfield*: COA (74.38) 
  
- *Calare*: COA (66.63) 
+*Calare*: COA (66.63) 
  
- *Charlton*: ALP (64.47) 
+*Charlton*: ALP (64.47) 
  
- *Chifley*: ALP (63.48) 
+*Chifley*: ALP (63.48) 
  
- *Cook*: COA (67.75) 
+*Cook*: COA (67.75) 
  
- *Cowper*: COA (62.21) 
+*Cowper*: COA (62.21) 
  
- *Cunningham*: ALP (60.62) 
+*Cunningham*: ALP (60.62) 
  
- *Dobell*: COA (51.29) 
+*Dobell*: COA (51.29) 
  
- *Eden-Monaro*: COA (51.13) 
+*Eden-Monaro*: COA (51.13) 
  
- *Farrer*: COA (68.0) 
+*Farrer*: COA (68.0) 
  
- *Fowler*: ALP (70.76) 
+*Fowler*: ALP (70.76) 
  
- *Gilmore*: COA (52.8) 
+*Gilmore*: COA (52.8) 
  
- *Grayndler*: ALP (69.19) 
+*Grayndler*: ALP (69.19) 
  
- *Greenway*: ALP (54.45) 
+*Greenway*: ALP (54.45) 
  
- *Hughes*: COA (60.38) 
+*Hughes*: COA (60.38) 
  
- *Hume*: COA (64.04) 
+*Hume*: COA (64.04) 
  
- *Hunter*: ALP (58.49) 
+*Hunter*: ALP (58.49) 
  
- *Kingsford Smith*: ALP (51.9) 
+*Kingsford Smith*: ALP (51.9) 
  
- *Lindsay*: COA (52.47) 
+*Lindsay*: COA (52.47) 
  
- *Lyne*: COA (67.16) 
+*Lyne*: COA (67.16) 
  
- *Macarthur*: COA (61.17) 
+*Macarthur*: COA (61.17) 
  
- *Mackellar*: COA (72.27) 
+*Mackellar*: COA (72.27) 
  
- *Macquarie*: COA (56.88) 
+*Macquarie*: COA (56.88) 
  
- *McMahon*: ALP (56.9) 
+*McMahon*: ALP (56.9) 
  
- *Mitchell*: COA (72.85) 
+*Mitchell*: COA (72.85) 
  
- *New England*: COA (77.68) 
+*New England*: COA (77.68) 
  
- *Newcastle*: ALP (58.5) 
+*Newcastle*: ALP (58.5) 
  
- *North Sydney*: COA (69.82) 
+*North Sydney*: COA (69.82) 
  
- *Page*: COA (51.82) 
+*Page*: COA (51.82) 
  
- *Parkes*: COA (72.13) 
+*Parkes*: COA (72.13) 
  
- *Parramatta*: ALP (50.55) 
+*Parramatta*: ALP (50.55) 
  
- *Paterson*: COA (61.38) 
+*Paterson*: COA (61.38) 
  
- *Richmond*: ALP (53.0) 
+*Richmond*: ALP (53.0) 
  
- *Riverina*: COA (71.39) 
+*Riverina*: COA (71.39) 
  
- *Robertson*: COA (52.47) 
+*Robertson*: COA (52.47) 
  
- *Shortland*: ALP (58.66) 
+*Shortland*: ALP (58.66) 
  
- *Sydney*: ALP (62.82) 
+*Sydney*: ALP (62.82) 
  
- *Throsby*: ALP (56.15) 
+*Throsby*: ALP (56.15) 
  
- *Warringah*: COA (70.56) 
+*Warringah*: COA (70.56) 
  
- *Watson*: ALP (57.99) 
+*Watson*: ALP (57.99) 
  
- *Wentworth*: COA (71.39) 
+*Wentworth*: COA (71.39) 
  
- *Werriwa*: ALP (54.66) 
+*Werriwa*: ALP (54.66) 
  
- *Reid*: COA (51.41) 
+*Reid*: COA (51.41) 
  
- *Banks*: COA (51.33) 
+*Banks*: COA (51.33) 
  
- ## NT
+## NT
  
- *Lingiari*: ALP (53.92) 
+*Lingiari*: ALP (53.92) 
  
- *Solomon*: ALP (52.58) 
+*Solomon*: ALP (52.58) 
  
- ## QLD
+## QLD
  
- *Dawson*: COA (57.74) 
+*Dawson*: COA (57.74) 
  
- *Blair*: ALP (56.93) 
+*Blair*: ALP (56.93) 
  
- *Bonner*: COA (53.39) 
+*Bonner*: COA (53.39) 
  
- *Bowman*: COA (58.73) 
+*Bowman*: COA (58.73) 
  
- *Brisbane*: COA (56.7) 
+*Brisbane*: COA (56.7) 
  
- *Capricornia*: ALP (50.51) 
+*Capricornia*: ALP (50.51) 
  
- *Dickson*: COA (57.23) 
+*Dickson*: COA (57.23) 
  
- *Fadden*: COA (67.03) 
+*Fadden*: COA (67.03) 
  
- *Fairfax*: PUP (55.83) 
+*Fairfax*: PUP (55.83) 
  
- *Fisher*: COA (63.51) 
+*Fisher*: COA (63.51) 
  
- *Flynn*: COA (55.54) 
+*Flynn*: COA (55.54) 
  
- *Forde*: COA (53.02) 
+*Forde*: COA (53.02) 
  
- *Griffith*: ALP (51.82) 
+*Griffith*: ALP (51.82) 
  
- *Groom*: COA (68.05) 
+*Groom*: COA (68.05) 
  
- *Herbert*: COA (56.67) 
+*Herbert*: COA (56.67) 
  
- *Hinkler*: COA (58.91) 
+*Hinkler*: COA (58.91) 
  
- *Kennedy*: COA (57.58) 
+*Kennedy*: COA (57.58) 
  
- *Leichhardt*: COA (54.9) 
+*Leichhardt*: COA (54.9) 
  
- *Lilley*: ALP (52.28) 
+*Lilley*: ALP (52.28) 
  
- *Longman*: COA (56.55) 
+*Longman*: COA (56.55) 
  
- *Maranoa*: COA (73.94) 
+*Maranoa*: COA (73.94) 
  
- *McPherson*: COA (64.38) 
+*McPherson*: COA (64.38) 
  
- *Moncrieff*: COA (68.67) 
+*Moncrieff*: COA (68.67) 
  
- *Moreton*: ALP (51.06) 
+*Moreton*: ALP (51.06) 
  
- *Oxley*: ALP (55.14) 
+*Oxley*: ALP (55.14) 
  
- *Petrie*: ALP (51.61) 
+*Petrie*: ALP (51.61) 
  
- *Rankin*: ALP (55.78) 
+*Rankin*: ALP (55.78) 
  
- *Ryan*: COA (61.51) 
+*Ryan*: COA (61.51) 
  
- *Wide Bay*: COA (65.62) 
+*Wide Bay*: COA (65.62) 
  
- *Wright*: COA (64.85) 
+*Wright*: COA (64.85) 
  
- ## SA
+## SA
  
- *Mayo*: COA (65.06) 
+*Mayo*: COA (65.06) 
  
- *Port Adelaide*: ALP (68.5) 
+*Port Adelaide*: ALP (68.5) 
  
- *Sturt*: COA (61.13) 
+*Sturt*: COA (61.13) 
  
- *Wakefield*: ALP (55.19) 
+*Wakefield*: ALP (55.19) 
  
- *Boothby*: COA (57.44) 
+*Boothby*: COA (57.44) 
  
- *Grey*: COA (63.94) 
+*Grey*: COA (63.94) 
  
- *Hindmarsh*: COA (51.84) 
+*Hindmarsh*: COA (51.84) 
  
- *Kingston*: ALP (62.86) 
+*Kingston*: ALP (62.86) 
  
- *Makin*: ALP (57.56) 
+*Makin*: ALP (57.56) 
  
- *Adelaide*: ALP (52.89) 
+*Adelaide*: ALP (52.89) 
  
- *Barker*: COA (70.97) 
+*Barker*: COA (70.97) 
  
- ## TAS
+## TAS
  
- *Bass*: COA (54.67) 
+*Bass*: COA (54.67) 
  
- *Lyons*: COA (51.15) 
+*Lyons*: COA (51.15) 
  
- *Braddon*: COA (52.66) 
+*Braddon*: COA (52.66) 
  
- *Denison*: ALP (52.06) 
+*Denison*: ALP (52.06) 
  
- *Franklin*: ALP (54.42) 
+*Franklin*: ALP (54.42) 
  
- ## VIC
+## VIC
  
- *Goldstein*: COA (64.96) 
+*Goldstein*: COA (64.96) 
  
- *Gorton*: ALP (68.77) 
+*Gorton*: ALP (68.77) 
  
- *Higgins*: COA (63.76) 
+*Higgins*: COA (63.76) 
  
- *Holt*: ALP (61.67) 
+*Holt*: ALP (61.67) 
  
- *Hotham*: ALP (58.59) 
+*Hotham*: ALP (58.59) 
  
- *Indi*: COA (76.5) 
+*Indi*: COA (76.5) 
  
- *Isaacs*: ALP (53.2) 
+*Isaacs*: ALP (53.2) 
  
- *Jagajaga*: ALP (51.18) 
+*Jagajaga*: ALP (51.18) 
  
- *Kooyong*: COA (65.86) 
+*Kooyong*: COA (65.86) 
  
- *La Trobe*: COA (55.34) 
+*La Trobe*: COA (55.34) 
  
- *Lalor*: ALP (63.12) 
+*Lalor*: ALP (63.12) 
  
- *Maribyrnong*: ALP (61.56) 
+*Maribyrnong*: ALP (61.56) 
  
- *McEwen*: ALP (51.15) 
+*McEwen*: ALP (51.15) 
  
- *McMillan*: COA (63.48) 
+*McMillan*: COA (63.48) 
  
- *Melbourne*: GRN (52.14) 
+*Melbourne*: GRN (52.14) 
  
- *Melbourne Ports*: COA (51.73) 
+*Melbourne Ports*: COA (51.73) 
  
- *Menzies*: COA (66.1) 
+*Menzies*: COA (66.1) 
  
- *Murray*: COA (72.22) 
+*Murray*: COA (72.22) 
  
- *Scullin*: ALP (65.66) 
+*Scullin*: ALP (65.66) 
  
- *Wannon*: COA (61.4) 
+*Wannon*: COA (61.4) 
  
- *Wills*: ALP (71.5) 
+*Wills*: ALP (71.5) 
  
- *Mallee*: COA (76.85) 
+*Mallee*: COA (76.85) 
  
- *Aston*: COA (58.45) 
+*Aston*: COA (58.45) 
  
- *Ballarat*: ALP (55.06) 
+*Ballarat*: ALP (55.06) 
  
- *Batman*: ALP (66.58) 
+*Batman*: ALP (66.58) 
  
- *Bendigo*: COA (52.5) 
+*Bendigo*: COA (52.5) 
  
- *Bruce*: ALP (51.88) 
+*Bruce*: ALP (51.88) 
  
- *Calwell*: ALP (65.69) 
+*Calwell*: ALP (65.69) 
  
- *Casey*: COA (59.64) 
+*Casey*: COA (59.64) 
  
- *Chisholm*: COA (50.16) 
+*Chisholm*: COA (50.16) 
  
- *Corangamite*: COA (57.51) 
+*Corangamite*: COA (57.51) 
  
- *Corio*: ALP (57.64) 
+*Corio*: ALP (57.64) 
  
- *Deakin*: COA (55.32) 
+*Deakin*: COA (55.32) 
  
- *Dunkley*: COA (57.84) 
+*Dunkley*: COA (57.84) 
  
- *Flinders*: COA (65.07) 
+*Flinders*: COA (65.07) 
  
- *Gellibrand*: ALP (66.66) 
+*Gellibrand*: ALP (66.66) 
  
- *Gippsland*: COA (67.07) 
+*Gippsland*: COA (67.07) 
  
- ## WA
+## WA
  
- *Tangney*: COA (65.56) 
+*Tangney*: COA (65.56) 
  
- *Canning*: COA (63.04) 
+*Canning*: COA (63.04) 
  
- *Cowan*: COA (57.06) 
+*Cowan*: COA (57.06) 
  
- *Curtin*: COA (71.74) 
+*Curtin*: COA (71.74) 
  
- *Durack*: COA (71.85) 
+*Durack*: COA (71.85) 
  
- *Forrest*: COA (65.39) 
+*Forrest*: COA (65.39) 
  
- *Fremantle*: ALP (54.41) 
+*Fremantle*: ALP (54.41) 
  
- *Hasluck*: COA (54.68) 
+*Hasluck*: COA (54.68) 
  
- *Moore*: COA (62.63) 
+*Moore*: COA (62.63) 
  
- *O'Connor*: COA (75.67) 
+*O'Connor*: COA (75.67) 
  
- *Pearce*: COA (62.45) 
+*Pearce*: COA (62.45) 
  
- *Perth*: ALP (54.05) 
+*Perth*: ALP (54.05) 
  
- *Stirling*: COA (60.55) 
+*Stirling*: COA (60.55) 
  
- *Swan*: COA (57.66) 
+*Swan*: COA (57.66) 
  
- *Brand*: ALP (53.65) 
- 
+*Brand*: ALP (53.65) 
  
