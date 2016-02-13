@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emma Chisit: setup on AWS 
+title: Emma Chisit - setup on AWS 
 image:
   feature: sample-image-2.jpg
   credit: Cradle Mountain National Park, Tasmania, 2014
