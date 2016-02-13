@@ -7,14 +7,6 @@ image:
 
 # Current seat-by-seat forecast
 
-
-
-
-
-
-
-
-
 ## ACT
  
 *Canberra*: ALP (55.56) 
