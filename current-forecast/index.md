@@ -25,11 +25,11 @@ image:
  
 *Bradfield*: COA (74.23) 
  
-*Calare*: COA (66.42) 
+*Calare*: COA (66.43) 
  
 *Charlton*: ALP (64.69) 
  
-*Chifley*: ALP (63.72) 
+*Chifley*: ALP (63.71) 
  
 *Cook*: COA (67.55) 
  
@@ -37,25 +37,25 @@ image:
  
 *Cunningham*: ALP (60.84) 
  
-*Dobell*: COA (51.05) 
+*Dobell*: COA (51.06) 
  
 *Eden-Monaro*: COA (50.89) 
  
 *Farrer*: COA (67.8) 
  
-*Fowler*: ALP (70.97) 
+*Fowler*: ALP (70.96) 
  
 *Gilmore*: COA (52.58) 
  
 *Grayndler*: ALP (69.38) 
  
-*Greenway*: ALP (54.7) 
+*Greenway*: ALP (54.69) 
  
 *Hughes*: COA (60.15) 
  
-*Hume*: COA (63.82) 
+*Hume*: COA (63.83) 
  
-*Hunter*: ALP (58.73) 
+*Hunter*: ALP (58.72) 
  
 *Kingsford Smith*: ALP (52.14) 
  
@@ -73,11 +73,11 @@ image:
  
 *Mitchell*: COA (72.68) 
  
-*New England*: COA (77.54) 
+*New England*: COA (77.55) 
  
 *Newcastle*: ALP (58.73) 
  
-*North Sydney*: COA (69.66) 
+*North Sydney*: COA (69.65) 
  
 *Page*: COA (51.58) 
  
@@ -89,7 +89,7 @@ image:
  
 *Richmond*: ALP (53.21) 
  
-*Riverina*: COA (71.2) 
+*Riverina*: COA (71.21) 
  
 *Robertson*: COA (52.23) 
  
@@ -99,7 +99,7 @@ image:
  
 *Throsby*: ALP (56.39) 
  
-*Warringah*: COA (70.4) 
+*Warringah*: COA (70.39) 
  
 *Watson*: ALP (58.23) 
  
@@ -113,71 +113,71 @@ image:
  
 ## NT
  
-*Lingiari*: ALP (54.12) 
+*Lingiari*: ALP (54.2) 
  
-*Solomon*: ALP (52.38) 
+*Solomon*: ALP (52.3) 
  
 ## QLD
  
-*Dawson*: COA (57.54) 
+*Dawson*: COA (57.46) 
  
-*Blair*: ALP (57.13) 
+*Blair*: ALP (57.21) 
  
-*Bonner*: COA (53.19) 
+*Bonner*: COA (53.11) 
  
-*Bowman*: COA (58.54) 
+*Bowman*: COA (58.46) 
  
-*Brisbane*: COA (56.52) 
+*Brisbane*: COA (56.44) 
  
-*Capricornia*: ALP (50.72) 
+*Capricornia*: ALP (50.8) 
  
-*Dickson*: COA (57.03) 
+*Dickson*: COA (56.95) 
  
-*Fadden*: COA (66.86) 
+*Fadden*: COA (66.79) 
  
 *Fairfax*: PUP (55.83) 
  
-*Fisher*: COA (63.34) 
+*Fisher*: COA (63.27) 
  
-*Flynn*: COA (55.33) 
+*Flynn*: COA (55.25) 
  
-*Forde*: COA (52.82) 
+*Forde*: COA (52.74) 
  
-*Griffith*: ALP (52.03) 
+*Griffith*: ALP (52.11) 
  
-*Groom*: COA (67.88) 
+*Groom*: COA (67.81) 
  
-*Herbert*: COA (56.47) 
+*Herbert*: COA (56.4) 
  
-*Hinkler*: COA (58.72) 
+*Hinkler*: COA (58.65) 
  
 *Kennedy*: KAP (58.51) 
  
-*Leichhardt*: COA (54.71) 
+*Leichhardt*: COA (54.63) 
  
-*Lilley*: ALP (52.48) 
+*Lilley*: ALP (52.56) 
  
-*Longman*: COA (56.35) 
+*Longman*: COA (56.27) 
  
-*Maranoa*: COA (73.8) 
+*Maranoa*: COA (73.74) 
  
-*McPherson*: COA (64.21) 
+*McPherson*: COA (64.14) 
  
-*Moncrieff*: COA (68.51) 
+*Moncrieff*: COA (68.44) 
  
-*Moreton*: ALP (51.26) 
+*Moreton*: ALP (51.34) 
  
-*Oxley*: ALP (55.35) 
+*Oxley*: ALP (55.43) 
  
-*Petrie*: ALP (51.81) 
+*Petrie*: ALP (51.9) 
  
-*Rankin*: ALP (55.98) 
+*Rankin*: ALP (56.06) 
  
-*Ryan*: COA (61.35) 
+*Ryan*: COA (61.27) 
  
-*Wide Bay*: COA (65.46) 
+*Wide Bay*: COA (65.39) 
  
-*Wright*: COA (64.68) 
+*Wright*: COA (64.61) 
  
 ## SA
  
@@ -191,9 +191,9 @@ image:
  
 *Boothby*: COA (57.23) 
  
-*Grey*: COA (63.72) 
+*Grey*: COA (63.73) 
  
-*Hindmarsh*: COA (51.6) 
+*Hindmarsh*: COA (51.61) 
  
 *Kingston*: ALP (63.08) 
  
@@ -211,13 +211,13 @@ image:
  
 *Braddon*: COA (52.42) 
  
-*Denison*: IND (64.39) 
+*Denison*: IND (64.32) 
  
 *Franklin*: ALP (54.65) 
  
 ## VIC
  
-*Goldstein*: COA (64.78) 
+*Goldstein*: COA (64.77) 
  
 *Gorton*: ALP (68.98) 
  
@@ -239,15 +239,15 @@ image:
  
 *Lalor*: ALP (63.35) 
  
-*Maribyrnong*: ALP (61.79) 
+*Maribyrnong*: ALP (61.78) 
  
 *McEwen*: ALP (51.39) 
  
 *McMillan*: COA (63.27) 
  
-*Melbourne*: GRN (51.9) 
+*Melbourne*: GRN (51.95) 
  
-*Melbourne Ports*: COA (51.52) 
+*Melbourne Ports*: COA (51.51) 
  
 *Menzies*: COA (65.89) 
  
@@ -257,19 +257,19 @@ image:
  
 *Wannon*: COA (61.18) 
  
-*Wills*: ALP (71.7) 
+*Wills*: ALP (71.68) 
  
-*Mallee*: COA (76.68) 
+*Mallee*: COA (76.69) 
  
 *Aston*: COA (58.23) 
  
 *Ballarat*: ALP (55.3) 
  
-*Batman*: ALP (66.81) 
+*Batman*: ALP (66.77) 
  
 *Bendigo*: COA (52.26) 
  
-*Bruce*: ALP (52.12) 
+*Bruce*: ALP (52.11) 
  
 *Calwell*: ALP (65.91) 
  
@@ -285,7 +285,7 @@ image:
  
 *Dunkley*: COA (57.62) 
  
-*Flinders*: COA (64.86) 
+*Flinders*: COA (64.87) 
  
 *Gellibrand*: ALP (66.86) 
  
