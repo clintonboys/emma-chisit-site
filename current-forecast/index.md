@@ -8,7 +8,7 @@ title: Current forecast
 # Current seat-by-seat forecast (Mackerras pendulum)
 
 
-|                              |                              |
+| ALP                          | COA                          |
 |------------------------------|------------------------------|
 |*Banks*: NSW (50.04)          |*Reid*: NSW (50.05)           |
 |*Dobell*: NSW (50.06)         |*Melbourne Ports*: VIC (50.44)|
