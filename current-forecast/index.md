@@ -3,323 +3,314 @@ layout: page
 title: Current forecast
 ---
 
-![image](imager.jpg)
+[image](imager.jpg)
 
-# Current seat-by-seat forecast
+| g | g | s | s | a |
+|---|---|---|---|---|
+|   | s | a |   | s |
+|   | s |   |   | d |
+|   |   |   |   |   |
 
-## ACT
+
+# Current seat-by-seat forecast (sorted by margin)
+
+*Banks*: ALP (50.04) 
  
-*Canberra*: ALP (56.26) 
+*Reid*: COA (50.05) 
  
-*Fraser*: ALP (62.19) 
+*Dobell*: ALP (50.06) 
  
-## NSW
+*Lyons*: ALP (50.18) 
  
-*Barton*: ALP (52.25) 
+*Eden-Monaro*: ALP (50.22) 
  
-*Bennelong*: COA (58.4) 
+*Melbourne Ports*: COA (50.44) 
  
-*Berowra*: COA (71.16) 
+*Page*: COA (50.47) 
  
-*Blaxland*: ALP (65.24) 
+*Hindmarsh*: COA (50.5) 
  
-*Bradfield*: COA (73.9) 
+*Capricornia*: ALP (51.05) 
  
-*Calare*: COA (65.99) 
+*Lindsay*: COA (51.1) 
  
-*Charlton*: ALP (65.14) 
+*Robertson*: COA (51.12) 
  
-*Chifley*: ALP (64.19) 
+*Bendigo*: COA (51.14) 
  
-*Cook*: COA (67.13) 
+*Chisholm*: ALP (51.2) 
  
-*Cowper*: COA (61.59) 
+*Braddon*: COA (51.31) 
  
-*Cunningham*: ALP (61.31) 
+*Gilmore*: COA (51.49) 
  
-*Dobell*: COA (50.56) 
+*Moreton*: ALP (51.58) 
  
-*Eden-Monaro*: COA (50.39) 
+*Melbourne*: GRN (51.7) 
  
-*Farrer*: COA (67.37) 
+*Parramatta*: ALP (51.91) 
  
-*Fowler*: ALP (71.39) 
+*Solomon*: ALP (52.06) 
  
-*Gilmore*: COA (52.1) 
+*Petrie*: ALP (52.15) 
  
-*Grayndler*: ALP (69.79) 
+*Griffith*: ALP (52.35) 
  
-*Greenway*: ALP (55.2) 
+*Forde*: COA (52.49) 
  
-*Hughes*: COA (59.67) 
+*McEwen*: ALP (52.5) 
  
-*Hume*: COA (63.38) 
+*Jagajaga*: ALP (52.5) 
  
-*Hunter*: ALP (59.21) 
+*Lilley*: ALP (52.8) 
  
-*Kingsford Smith*: ALP (52.63) 
+*Barton*: ALP (52.86) 
  
-*Lindsay*: COA (51.72) 
+*Bonner*: COA (52.88) 
  
-*Lyne*: COA (66.56) 
+*Bruce*: ALP (53.23) 
  
-*Macarthur*: COA (60.48) 
+*Kingsford Smith*: ALP (53.24) 
  
-*Mackellar*: COA (71.79) 
+*Hasluck*: COA (53.35) 
  
-*Macquarie*: COA (56.18) 
+*Bass*: COA (53.35) 
  
-*McMahon*: ALP (57.65) 
+*Deakin*: COA (53.99) 
  
-*Mitchell*: COA (72.3) 
+*La Trobe*: COA (54.02) 
  
-*New England*: COA (77.24) 
+*Adelaide*: ALP (54.23) 
  
-*Newcastle*: ALP (59.22) 
+*Richmond*: ALP (54.26) 
  
-*North Sydney*: COA (69.28) 
+*Leichhardt*: COA (54.4) 
  
-*Page*: COA (51.09) 
+*Lingiari*: ALP (54.44) 
  
-*Parkes*: COA (71.56) 
+*Isaacs*: ALP (54.55) 
  
-*Parramatta*: ALP (51.3) 
+*Brand*: ALP (55.0) 
  
-*Paterson*: COA (60.7) 
+*Flynn*: COA (55.01) 
  
-*Richmond*: ALP (53.66) 
+*Perth*: ALP (55.38) 
  
-*Riverina*: COA (70.81) 
+*Macquarie*: COA (55.57) 
  
-*Robertson*: COA (51.74) 
+*Oxley*: ALP (55.67) 
  
-*Shortland*: ALP (59.38) 
+*Franklin*: ALP (55.73) 
  
-*Sydney*: ALP (63.5) 
+*Fremantle*: ALP (55.75) 
  
-*Throsby*: ALP (56.89) 
+*Cowan*: COA (55.75) 
  
-*Warringah*: COA (70.03) 
- 
-*Watson*: ALP (58.73) 
- 
-*Wentworth*: COA (70.86) 
- 
-*Werriwa*: ALP (55.4) 
- 
-*Reid*: COA (50.66) 
- 
-*Banks*: COA (50.57) 
- 
-## NT
- 
-*Lingiari*: ALP (54.56) 
- 
-*Solomon*: ALP (51.93) 
- 
-## QLD
- 
-*Dawson*: COA (57.12) 
- 
-*Blair*: ALP (57.57) 
- 
-*Bonner*: COA (52.75) 
- 
-*Bowman*: COA (58.12) 
- 
-*Brisbane*: COA (56.1) 
- 
-*Capricornia*: ALP (51.17) 
- 
-*Dickson*: COA (56.6) 
- 
-*Fadden*: COA (66.48) 
+*Greenway*: ALP (55.81) 
  
 *Fairfax*: PUP (55.83) 
  
-*Fisher*: COA (62.96) 
+*Werriwa*: ALP (56.02) 
  
-*Flynn*: COA (54.88) 
+*Longman*: COA (56.03) 
  
-*Forde*: COA (52.36) 
+*Herbert*: COA (56.16) 
  
-*Griffith*: ALP (52.48) 
+*Boothby*: COA (56.18) 
  
-*Groom*: COA (67.5) 
+*Corangamite*: COA (56.2) 
  
-*Herbert*: COA (56.04) 
+*Brisbane*: COA (56.24) 
  
-*Hinkler*: COA (58.3) 
+*Rankin*: ALP (56.3) 
  
-*Kennedy*: KAP (58.5) 
+*Swan*: COA (56.38) 
  
-*Leichhardt*: COA (54.27) 
+*Ballarat*: ALP (56.4) 
  
-*Lilley*: ALP (52.93) 
+*Wakefield*: ALP (56.53) 
  
-*Longman*: COA (55.91) 
+*Dunkley*: COA (56.54) 
  
-*Maranoa*: COA (73.48) 
+*Dickson*: COA (56.73) 
  
-*McPherson*: COA (63.84) 
+*Canberra*: ALP (56.87) 
  
-*Moncrieff*: COA (68.15) 
+*Aston*: COA (57.14) 
  
-*Moreton*: ALP (51.71) 
+*Dawson*: COA (57.24) 
  
-*Oxley*: ALP (55.8) 
+*Blair*: ALP (57.45) 
  
-*Petrie*: ALP (52.27) 
+*Throsby*: ALP (57.5) 
  
-*Rankin*: ALP (56.43) 
+*Bennelong*: COA (57.8) 
  
-*Ryan*: COA (60.96) 
+*Bowman*: COA (58.25) 
  
-*Wide Bay*: COA (65.1) 
+*McMahon*: ALP (58.25) 
  
-*Wright*: COA (64.31) 
+*Casey*: COA (58.38) 
  
-## SA
+*Hinkler*: COA (58.42) 
  
-*Mayo*: COA (64.5) 
+*Kennedy*: KAP (58.51) 
  
-*Port Adelaide*: ALP (69.12) 
+*Makin*: ALP (58.89) 
  
-*Sturt*: COA (60.47) 
+*Corio*: ALP (58.97) 
  
-*Wakefield*: ALP (55.92) 
+*Hughes*: COA (59.08) 
  
-*Boothby*: COA (56.77) 
+*Stirling*: COA (59.3) 
  
-*Grey*: COA (63.28) 
+*Watson*: ALP (59.32) 
  
-*Hindmarsh*: COA (51.11) 
+*Hunter*: ALP (59.8) 
  
-*Kingston*: ALP (63.55) 
+*Newcastle*: ALP (59.81) 
  
-*Makin*: ALP (58.29) 
+*Shortland*: ALP (59.86) 
  
-*Adelaide*: ALP (53.62) 
+*Macarthur*: COA (59.88) 
  
-*Barker*: COA (70.43) 
+*Sturt*: COA (59.89) 
  
-## TAS
+*Hotham*: ALP (59.89) 
  
-*Bass*: COA (53.96) 
+*Paterson*: COA (60.11) 
  
-*Lyons*: COA (50.43) 
+*Wannon*: COA (60.12) 
  
-*Braddon*: COA (51.93) 
+*Cowper*: COA (61.02) 
  
-*Denison*: IND (64.12) 
+*Ryan*: COA (61.09) 
  
-*Franklin*: ALP (55.13) 
+*Pearce*: COA (61.2) 
  
-## VIC
+*Moore*: COA (61.41) 
  
-*Goldstein*: COA (64.36) 
+*Canning*: COA (61.8) 
  
-*Gorton*: ALP (69.41) 
+*Cunningham*: ALP (61.89) 
  
-*Higgins*: COA (63.15) 
+*McMillan*: COA (62.24) 
  
-*Holt*: ALP (62.38) 
+*Higgins*: COA (62.6) 
  
-*Hotham*: ALP (59.3) 
+*Grey*: COA (62.7) 
  
-*Indi*: COA (75.8) 
+*Fraser*: ALP (62.77) 
  
-*Isaacs*: ALP (53.94) 
+*Hume*: COA (62.8) 
  
-*Jagajaga*: ALP (51.89) 
+*Maribyrnong*: ALP (62.84) 
  
-*Kooyong*: COA (65.28) 
+*Holt*: ALP (62.96) 
  
-*La Trobe*: COA (54.63) 
+*Fisher*: COA (63.08) 
  
-*Lalor*: ALP (63.81) 
+*Goldstein*: COA (63.81) 
  
-*Maribyrnong*: ALP (62.26) 
+*Flinders*: COA (63.87) 
  
-*McEwen*: ALP (51.88) 
+*Mayo*: COA (63.94) 
  
-*McMillan*: COA (62.82) 
+*McPherson*: COA (63.95) 
  
-*Melbourne*: GRN (51.67) 
+*Sydney*: ALP (64.07) 
  
-*Melbourne Ports*: COA (51.05) 
+*Kingston*: ALP (64.12) 
  
-*Menzies*: COA (65.46) 
+*Forrest*: COA (64.19) 
  
-*Murray*: COA (71.64) 
+*Lalor*: ALP (64.38) 
  
-*Scullin*: ALP (66.32) 
+*Tangney*: COA (64.4) 
  
-*Wannon*: COA (60.71) 
+*Denison*: IND (64.41) 
  
-*Wills*: ALP (71.93) 
+*Wright*: COA (64.42) 
  
-*Mallee*: COA (76.33) 
+*Kooyong*: COA (64.73) 
  
-*Aston*: COA (57.74) 
+*Chifley*: ALP (64.76) 
  
-*Ballarat*: ALP (55.79) 
+*Menzies*: COA (64.91) 
  
-*Batman*: ALP (67.05) 
+*Wide Bay*: COA (65.21) 
  
-*Bendigo*: COA (51.76) 
+*Calare*: COA (65.43) 
  
-*Bruce*: ALP (52.62) 
+*Charlton*: ALP (65.7) 
  
-*Calwell*: ALP (66.36) 
+*Blaxland*: ALP (65.8) 
  
-*Casey*: COA (58.97) 
+*Gippsland*: COA (65.88) 
  
-*Chisholm*: ALP (50.58) 
+*Lyne*: COA (66.01) 
  
-*Corangamite*: COA (56.8) 
+*Cook*: COA (66.58) 
  
-*Corio*: ALP (58.37) 
+*Fadden*: COA (66.59) 
  
-*Deakin*: COA (54.6) 
+*Farrer*: COA (66.83) 
  
-*Dunkley*: COA (57.14) 
+*Scullin*: ALP (66.87) 
  
-*Flinders*: COA (64.43) 
+*Calwell*: ALP (66.92) 
  
-*Gellibrand*: ALP (67.29) 
+*Batman*: ALP (67.07) 
  
-*Gippsland*: COA (66.43) 
+*Groom*: COA (67.61) 
  
-## WA
+*Gellibrand*: ALP (67.82) 
  
-*Tangney*: COA (64.95) 
+*Moncrieff*: COA (68.26) 
  
-*Canning*: COA (62.38) 
+*North Sydney*: COA (68.78) 
  
-*Cowan*: COA (56.36) 
+*Warringah*: COA (69.53) 
  
-*Curtin*: COA (71.24) 
+*Port Adelaide*: ALP (69.65) 
  
-*Durack*: COA (71.29) 
+*Barker*: COA (69.91) 
  
-*Forrest*: COA (64.75) 
+*Gorton*: ALP (69.93) 
  
-*Fremantle*: ALP (55.14) 
+*Grayndler*: ALP (70.29) 
  
-*Hasluck*: COA (53.97) 
+*Riverina*: COA (70.29) 
  
-*Moore*: COA (61.99) 
+*Wentworth*: COA (70.37) 
  
-*O'Connor*: COA (75.15) 
+*Berowra*: COA (70.66) 
  
-*Pearce*: COA (61.79) 
+*Curtin*: COA (70.76) 
  
-*Perth*: ALP (54.77) 
+*Durack*: COA (70.78) 
  
-*Stirling*: COA (59.89) 
+*Parkes*: COA (71.06) 
  
-*Swan*: COA (56.97) 
+*Murray*: COA (71.13) 
  
-*Brand*: ALP (54.39) 
+*Mackellar*: COA (71.3) 
+ 
+*Mitchell*: COA (71.81) 
+ 
+*Fowler*: ALP (71.89) 
+ 
+*Wills*: ALP (71.96) 
+ 
+*Bradfield*: COA (73.44) 
+ 
+*Maranoa*: COA (73.57) 
+ 
+*O'Connor*: COA (74.69) 
+ 
+*Indi*: COA (75.34) 
+ 
+*Mallee*: COA (75.88) 
+ 
+*New England*: COA (76.8) 
  
