@@ -8,6 +8,8 @@ title: Current forecast
 # Current seat-by-seat forecast (Mackerras pendulum)
 
 
+Forecast last updated on 6/4/2016 at 5:29 AEST 
+
 | ALP                          | COA                          |
 |------------------------------|------------------------------|
 |*Banks*: NSW (50.04)          |*Reid*: NSW (50.05)           |
