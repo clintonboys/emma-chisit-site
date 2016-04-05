@@ -3,7 +3,7 @@ layout: page
 title: Current forecast
 ---
 
-[image](imager.jpg)
+![image](imager.jpg)
 
 # Current seat-by-seat forecast (Mackerras pendulum)
 
