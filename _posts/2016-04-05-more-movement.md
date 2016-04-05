@@ -6,7 +6,7 @@ image:
   credit: Blue Mountains, 2014
 ---
 
-The Emma Chisit model updated today after a break which resulted in some changes and improvements to the model and the website. 
+The Emma Chisit model [updated](http://auselections.com/current-forecast/) today after a break which resulted in some changes and improvements to the model and the website. 
 
 There has been one major political announcement since the model's last update: Prime Minister Malcolm Turnbull has signified he is willing to use a slew of industrial legislation as a double dissolution trigger which means an early election on July 2 (in less than 13 weeks) is likely. 
 
