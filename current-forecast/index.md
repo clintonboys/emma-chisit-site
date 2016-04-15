@@ -8,92 +8,91 @@ title: Current forecast
 # Current seat-by-seat forecast (Mackerras pendulum)
 
 
-Forecast last updated on 6/4/2016 at 5:29 AEST 
+Forecast last updated on 15/4/2016 at 22:42 AEST 
 
 | ALP                          | COA                          |
 |------------------------------|------------------------------|
-|*Banks*: NSW (50.04)          |*Reid*: NSW (50.05)           |
-|*Dobell*: NSW (50.06)         |*Melbourne Ports*: VIC (50.44)|
-|*Lyons*: TAS (50.18)          |*Page*: NSW (50.47)           |
-|*Eden-Monaro*: NSW (50.22)    |*Hindmarsh*: SA (50.5)        |
-|*Capricornia*: QLD (51.05)    |*Lindsay*: NSW (51.1)         |
-|*Chisholm*: VIC (51.2)        |*Robertson*: NSW (51.12)      |
-|*Moreton*: QLD (51.58)        |*Bendigo*: VIC (51.14)        |
-|*Parramatta*: NSW (51.91)     |*Braddon*: TAS (51.31)        |
-|*Solomon*: NT (52.06)         |*Gilmore*: NSW (51.49)        |
-|*Petrie*: QLD (52.15)         |*Forde*: QLD (52.49)          |
-|*Griffith*: QLD (52.35)       |*Bonner*: QLD (52.88)         |
-|*McEwen*: VIC (52.5)          |*Hasluck*: WA (53.35)         |
-|*Jagajaga*: VIC (52.5)        |*Bass*: TAS (53.35)           |
-|*Lilley*: QLD (52.8)          |*Deakin*: VIC (53.99)         |
-|*Barton*: NSW (52.86)         |*La Trobe*: VIC (54.02)       |
-|*Bruce*: VIC (53.23)          |*Leichhardt*: QLD (54.4)      |
-|*Kingsford Smith*: NSW (53.24)|*Flynn*: QLD (55.01)          |
-|*Adelaide*: SA (54.23)        |*Macquarie*: NSW (55.57)      |
-|*Richmond*: NSW (54.26)       |*Cowan*: WA (55.75)           |
-|*Lingiari*: NT (54.44)        |*Longman*: QLD (56.03)        |
-|*Isaacs*: VIC (54.55)         |*Herbert*: QLD (56.16)        |
-|*Brand*: WA (55.0)            |*Boothby*: SA (56.18)         |
-|*Perth*: WA (55.38)           |*Corangamite*: VIC (56.2)     |
-|*Oxley*: QLD (55.67)          |*Brisbane*: QLD (56.24)       |
-|*Franklin*: TAS (55.73)       |*Swan*: WA (56.38)            |
-|*Fremantle*: WA (55.75)       |*Dunkley*: VIC (56.54)        |
-|*Greenway*: NSW (55.81)       |*Dickson*: QLD (56.73)        |
-|*Werriwa*: NSW (56.02)        |*Aston*: VIC (57.14)          |
-|*Rankin*: QLD (56.3)          |*Dawson*: QLD (57.24)         |
-|*Ballarat*: VIC (56.4)        |*Bennelong*: NSW (57.8)       |
-|*Wakefield*: SA (56.53)       |*Bowman*: QLD (58.25)         |
-|*Canberra*: ACT (56.87)       |*Casey*: VIC (58.38)          |
-|*Blair*: QLD (57.45)          |*Hinkler*: QLD (58.42)        |
-|*Throsby*: NSW (57.5)         |*Hughes*: NSW (59.08)         |
-|*McMahon*: NSW (58.25)        |*Stirling*: WA (59.3)         |
-|*Makin*: SA (58.89)           |*Macarthur*: NSW (59.88)      |
-|*Corio*: VIC (58.97)          |*Sturt*: SA (59.89)           |
-|*Watson*: NSW (59.32)         |*Paterson*: NSW (60.11)       |
-|*Hunter*: NSW (59.8)          |*Wannon*: VIC (60.12)         |
-|*Newcastle*: NSW (59.81)      |*Cowper*: NSW (61.02)         |
-|*Shortland*: NSW (59.86)      |*Ryan*: QLD (61.09)           |
-|*Hotham*: VIC (59.89)         |*Pearce*: WA (61.2)           |
-|*Cunningham*: NSW (61.89)     |*Moore*: WA (61.41)           |
-|*Fraser*: ACT (62.77)         |*Canning*: WA (61.8)          |
-|*Maribyrnong*: VIC (62.84)    |*McMillan*: VIC (62.24)       |
-|*Holt*: VIC (62.96)           |*Higgins*: VIC (62.6)         |
-|*Sydney*: NSW (64.07)         |*Grey*: SA (62.7)             |
-|*Kingston*: SA (64.12)        |*Hume*: NSW (62.8)            |
-|*Lalor*: VIC (64.38)          |*Fisher*: QLD (63.08)         |
-|*Chifley*: NSW (64.76)        |*Goldstein*: VIC (63.81)      |
-|*Charlton*: NSW (65.7)        |*Flinders*: VIC (63.87)       |
-|*Blaxland*: NSW (65.8)        |*Mayo*: SA (63.94)            |
-|*Scullin*: VIC (66.87)        |*McPherson*: QLD (63.95)      |
-|*Calwell*: VIC (66.92)        |*Forrest*: WA (64.19)         |
-|*Batman*: VIC (67.07)         |*Tangney*: WA (64.4)          |
-|*Gellibrand*: VIC (67.82)     |*Wright*: QLD (64.42)         |
-|*Port Adelaide*: SA (69.65)   |*Kooyong*: VIC (64.73)        |
-|*Gorton*: VIC (69.93)         |*Menzies*: VIC (64.91)        |
-|*Grayndler*: NSW (70.29)      |*Wide Bay*: QLD (65.21)       |
-|*Fowler*: NSW (71.89)         |*Calare*: NSW (65.43)         |
-|*Wills*: VIC (71.96)          |*Gippsland*: VIC (65.88)      |
-|                              |*Lyne*: NSW (66.01)           |
-|                              |*Cook*: NSW (66.58)           |
-|                              |*Fadden*: QLD (66.59)         |
-|                              |*Farrer*: NSW (66.83)         |
-|                              |*Groom*: QLD (67.61)          |
-|                              |*Moncrieff*: QLD (68.26)      |
-|                              |*North Sydney*: NSW (68.78)   |
-|                              |*Warringah*: NSW (69.53)      |
-|                              |*Barker*: SA (69.91)          |
-|                              |*Riverina*: NSW (70.29)       |
-|                              |*Wentworth*: NSW (70.37)      |
-|                              |*Berowra*: NSW (70.66)        |
-|                              |*Curtin*: WA (70.76)          |
-|                              |*Durack*: WA (70.78)          |
-|                              |*Parkes*: NSW (71.06)         |
-|                              |*Murray*: VIC (71.13)         |
-|                              |*Mackellar*: NSW (71.3)       |
-|                              |*Mitchell*: NSW (71.81)       |
-|                              |*Bradfield*: NSW (73.44)      |
-|                              |*Maranoa*: QLD (73.57)        |
-|                              |*O'Connor*: WA (74.69)        |
-|                              |*Indi*: VIC (75.34)           |
-|                              |*Mallee*: VIC (75.88)         |
-|                              |*New England*: NSW (76.8)     |
+|*Reid*: NSW (50.08)           |*Melbourne Ports*: VIC (50.33)|
+|*Banks*: NSW (50.17)          |*Page*: NSW (50.34)           |
+|*Dobell*: NSW (50.19)         |*Hindmarsh*: SA (50.38)       |
+|*Lyons*: TAS (50.31)          |*Lindsay*: NSW (50.97)        |
+|*Eden-Monaro*: NSW (50.35)    |*Robertson*: NSW (51.0)       |
+|*Capricornia*: QLD (51.16)    |*Bendigo*: VIC (51.02)        |
+|*Chisholm*: VIC (51.32)       |*Braddon*: TAS (51.19)        |
+|*Moreton*: QLD (51.69)        |*Gilmore*: NSW (51.37)        |
+|*Solomon*: NT (51.94)         |*Forde*: QLD (52.37)          |
+|*Parramatta*: NSW (52.04)     |*Bonner*: QLD (52.76)         |
+|*Petrie*: QLD (52.26)         |*Bass*: TAS (53.22)           |
+|*Griffith*: QLD (52.47)       |*Hasluck*: WA (53.23)         |
+|*McEwen*: VIC (52.62)         |*Deakin*: VIC (53.87)         |
+|*Jagajaga*: VIC (52.63)       |*La Trobe*: VIC (53.9)        |
+|*Lilley*: QLD (52.91)         |*Leichhardt*: QLD (54.29)     |
+|*Barton*: NSW (52.99)         |*Flynn*: QLD (54.89)          |
+|*Bruce*: VIC (53.36)          |*Macquarie*: NSW (55.45)      |
+|*Kingsford Smith*: NSW (53.37)|*Cowan*: WA (55.63)           |
+|*Adelaide*: SA (54.36)        |*Longman*: QLD (55.92)        |
+|*Richmond*: NSW (54.37)       |*Herbert*: QLD (56.05)        |
+|*Lingiari*: NT (54.55)        |*Boothby*: SA (56.06)         |
+|*Isaacs*: VIC (54.68)         |*Corangamite*: VIC (56.07)    |
+|*Brand*: WA (55.13)           |*Brisbane*: QLD (56.13)       |
+|*Perth*: WA (55.5)            |*Swan*: WA (56.26)            |
+|*Oxley*: QLD (55.79)          |*Dunkley*: VIC (56.42)        |
+|*Franklin*: TAS (55.85)       |*Dickson*: QLD (56.62)        |
+|*Fremantle*: WA (55.87)       |*Aston*: VIC (57.02)          |
+|*Greenway*: NSW (55.94)       |*Dawson*: QLD (57.13)         |
+|*Werriwa*: NSW (56.14)        |*Bennelong*: NSW (57.68)      |
+|*Rankin*: QLD (56.41)         |*Bowman*: QLD (58.14)         |
+|*Ballarat*: VIC (56.52)       |*Casey*: VIC (58.26)          |
+|*Wakefield*: SA (56.65)       |*Hinkler*: QLD (58.31)        |
+|*Canberra*: ACT (56.99)       |*Hughes*: NSW (58.96)         |
+|*Blair*: QLD (57.56)          |*Stirling*: WA (59.19)        |
+|*Throsby*: NSW (57.62)        |*Macarthur*: NSW (59.76)      |
+|*McMahon*: NSW (58.38)        |*Sturt*: SA (59.77)           |
+|*Makin*: SA (59.01)           |*Paterson*: NSW (59.99)       |
+|*Corio*: VIC (59.09)          |*Wannon*: VIC (60.01)         |
+|*Watson*: NSW (59.45)         |*Cowper*: NSW (60.91)         |
+|*Newcastle*: NSW (59.93)      |*Ryan*: QLD (61.0)            |
+|*Hunter*: NSW (59.93)         |*Pearce*: WA (61.09)          |
+|*Shortland*: NSW (59.98)      |*Moore*: WA (61.3)            |
+|*Hotham*: VIC (60.01)         |*Canning*: WA (61.68)         |
+|*Cunningham*: NSW (62.01)     |*McMillan*: VIC (62.13)       |
+|*Fraser*: ACT (62.88)         |*Higgins*: VIC (62.49)        |
+|*Maribyrnong*: VIC (62.95)    |*Grey*: SA (62.58)            |
+|*Holt*: VIC (63.08)           |*Hume*: NSW (62.69)           |
+|*Sydney*: NSW (64.18)         |*Fisher*: QLD (62.98)         |
+|*Kingston*: SA (64.23)        |*Goldstein*: VIC (63.71)      |
+|*Lalor*: VIC (64.5)           |*Flinders*: VIC (63.76)       |
+|*Chifley*: NSW (64.88)        |*Mayo*: SA (63.85)            |
+|*Charlton*: NSW (65.82)       |*McPherson*: QLD (63.86)      |
+|*Blaxland*: NSW (65.92)       |*Forrest*: WA (64.08)         |
+|*Scullin*: VIC (66.98)        |*Tangney*: WA (64.29)         |
+|*Calwell*: VIC (67.03)        |*Wright*: QLD (64.32)         |
+|*Batman*: VIC (67.15)         |*Kooyong*: VIC (64.63)        |
+|*Gellibrand*: VIC (67.93)     |*Menzies*: VIC (64.8)         |
+|*Port Adelaide*: SA (69.75)   |*Wide Bay*: QLD (65.12)       |
+|*Gorton*: VIC (70.04)         |*Calare*: NSW (65.32)         |
+|*Grayndler*: NSW (70.39)      |*Gippsland*: VIC (65.76)      |
+|*Fowler*: NSW (72.0)          |*Lyne*: NSW (65.9)            |
+|*Wills*: VIC (72.03)          |*Cook*: NSW (66.47)           |
+|                              |*Fadden*: QLD (66.5)          |
+|                              |*Farrer*: NSW (66.72)         |
+|                              |*Groom*: QLD (67.52)          |
+|                              |*Moncrieff*: QLD (68.17)      |
+|                              |*North Sydney*: NSW (68.68)   |
+|                              |*Warringah*: NSW (69.43)      |
+|                              |*Barker*: SA (69.82)          |
+|                              |*Riverina*: NSW (70.19)       |
+|                              |*Wentworth*: NSW (70.28)      |
+|                              |*Berowra*: NSW (70.57)        |
+|                              |*Curtin*: WA (70.67)          |
+|                              |*Durack*: WA (70.68)          |
+|                              |*Parkes*: NSW (70.96)         |
+|                              |*Murray*: VIC (71.03)         |
+|                              |*Mackellar*: NSW (71.22)      |
+|                              |*Mitchell*: NSW (71.71)       |
+|                              |*Bradfield*: NSW (73.35)      |
+|                              |*Maranoa*: QLD (73.49)        |
+|                              |*O'Connor*: WA (74.6)         |
+|                              |*Indi*: VIC (75.25)           |
+|                              |*Mallee*: VIC (75.79)         |
+|                              |*New England*: NSW (76.72)    |
