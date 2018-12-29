@@ -27,37 +27,7 @@ Emma is based on the assumption that Australian elections are won at polling pla
 
 **What's the current state of the model?**
 
-As various pieces of the model are built, I'll update this section. Usually there will be an accompanying blog post for the section. 
-
-29/3/15: As I only have a database of federal polling data, I have spent five days scraping the web for state poll data.
-
-31/3/15: First version of [pollster weight calculator](http://www.clintonboys.com/aus-election-model-7/) is built. 
-
-5/4/15: Working on an object-oriented skeleton of the model which will initially work with a few dummy polling places and seats. 
-
-19/4/15: Read about some models that have similar ideas to mine; in particular the [strong transition model](http://www.electoralcalculus.co.uk/strongmodel.html) used by the may2015.co.uk site. 
-
-20/4/15: Coded up a first draft of a runoff simulator. Incorporated some more poll data courtesy of William Bowe into the model. 
-
-28/4/15: Incorporated the last of William Bowe's poll data. Translated old R code for clustering to Python. 
-
-29/4/15: Started work on poll aggregation functions. Redrafted pollster weight calculator. 
-
-30/4/15: Worked on various functions to load election data by polling place. Got some more data. 
-
-14/5/15: Started work on first model for translating poll aggregator to individual seat swings. 
-
-17/5/15: Fixing various bugs in previous components that I introduced. Fixed some data so that everything is consistent. 
-
-20/5/15: All modules now work as intended. Started work on preference flow calculator. 
-
-21/5/15: First pass of the model gets 133/150 seats in the 2013 Federal election correct. The main point of failure is not including PUP as a bone fide fourth party, so improving this and better calculating preference flows are the next steps. 
-
-7/6/15: Rewrote lots of code for speed, removed old parts. 
-
-27/6/15: Scraped marginal seat data from Ghost Who Votes. Planning to combine this with clustering. 
-
-9/7/15: Started work on including marginal polls in the model.
+The model made some initial predictions for the 2016 election and I am currently in the process of making some adjustments to make predictions available for the 2019 federal election. 
 
 **Where can I see the source code?**
 
@@ -65,4 +35,4 @@ I'm keeping everything open source. It's all available on the [Github repo](http
 
 **When will it be finished?**
 
-My ultimate goal is to have the model fully ready for the next federal election in the second half of 2016. There are plenty of steps to complete in the meantime. I'll keep the "what is the current state" section above updated as the model progresses. 
+My ultimate goal is to have the model fully ready for the next federal election in 2019. There are plenty of steps to complete in the meantime. I'll keep the "what is the current state" section above updated as the model progresses. 
